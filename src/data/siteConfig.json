@@ -1,0 +1,86 @@
+{
+  "site": {
+    "name": "Retro Bowl - Play Retro Bowl Online Free",
+    "shortName": "Retro Bowl Game", 
+    "description": "Play Retro Bowl online for free! Experience nostalgic American football with retro-style graphics and addictive gameplay. No download required!",
+    "url": "https://retro-bowl-game.org/",
+    "contactEmail": "support@retro-bowl-game.org",
+    "logo": "/images/logo.png",
+    "favicon": "/favicon.ico",
+    "ogImage": "https://images.retro-bowl-game.org/og-retro-bowl.webp"
+  },
+  "analytics": {
+    "googleAnalyticsId": "G-CEJTVKS9B9"
+  },
+  "features": {
+    "enableFavorites": true,
+    "enableAnalytics": true,
+    "enableThemeToggle": true
+  },
+  "homepage": {
+    "mainGame": "retro-bowl",
+    "popularGames": [
+      "retro-bowl-2",
+      "retro-bowl-college",
+      "retro-bowl-3kh0",
+      "retro-bowl-25",
+      "doodle-baseball",
+      "dinosaur-game"
+    ],
+    "newGames": ["tecmo-super-bowl-III-special-edition", "tecmo-super-bowl-II-special-edition", "american-football"],
+    "hotGames": ["retro-bowl", "doodle-baseball", "retro-bowl-college", "tecmo-super-bowl-II-special-edition"]
+  },
+  "navigation": {
+    "topItems": [
+      {
+        "type": "category",
+        "id": "retro-bowl",
+        "title": "Retro Bowl",
+        "url": "/category/retro-bowl/"
+      },
+      {
+        "type": "page",
+        "id": "all-games",
+        "title": "All Games",
+        "url": "/all-games/"
+      },
+      {
+        "type": "game",
+        "id": "doodle-baseball",
+        "title": "Doodle Baseball",
+        "url": "/games/doodle-baseball/"
+      },
+      {
+        "type": "game",
+        "id": "retro-bowl-college",
+        "title": "Retro Bowl College",
+        "url": "/games/retro-bowl-college/"
+      }
+    ]
+  },
+  "footer": {
+    "links": [
+      {
+        "title": "About Us",
+        "url": "/about/",
+        "external": false
+      },
+      {
+        "title": "Contact Us",
+        "url": "/contact/",
+        "external": false
+      },
+      {
+        "title": "Privacy Policy",
+        "url": "/privacy/",
+        "external": false
+      },
+      {
+        "title": "Terms of Service",
+        "url": "/terms/",
+        "external": false
+      }
+    ],
+    "copyright": "© 2025 Retro Bowl Game. All rights reserved."
+  }
+} 

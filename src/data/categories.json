@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "id": "retro-bowl",
+      "name": "Retro Bowl",
+      "slug": "retro-bowl",
+      "description": "",
+      "longDescription": "",
+      "isTopLevel": true,
+      "gameCount": 17
+    },
+    {
+      "id": "google-games",
+      "name": "Google Games",
+      "slug": "google-games",
+      "description": "",
+      "longDescription": "",
+      "isTopLevel": true,
+      "gameCount": 7
+    },
+    {
+      "id": "geometry-dash",
+      "name": "Geometry Dash",
+      "slug": "geometry-dash",
+      "description": "",
+      "longDescription": "",
+      "isTopLevel": true,
+      "gameCount": 9
+    }
+  ]
+} 
